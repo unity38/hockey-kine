@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "ritchie-playground-hockey",
-"dataUrl": "__web-hockey.data.unityweb",
-"wasmCodeUrl": "__web-hockey.wasm.code.unityweb",
-"wasmFrameworkUrl": "__web-hockey.wasm.framework.unityweb",
+"dataUrl": "efff4ae5dee77bb7b377178f56b961da.unityweb",
+"wasmCodeUrl": "88982e54a2ad322bd68cdf46087079ce.unityweb",
+"wasmFrameworkUrl": "02d9e22f72c5d77cfdfbd2833f0c34b6.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
